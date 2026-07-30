@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project title
 AI HR Analytics Agent using Qwen2.5
 
@@ -13,3 +14,7 @@ Features
 - Tool-based analytics
 - Conversation memory
 - Local LLM inference
+=======
+# OmniInsight-AI
+An Agentic RAG-Powered Analytics Assistant for Enterprise Documents
+>>>>>>> dd0419f661c7db91bb54555d2ddd5114f17221f5
