@@ -1,0 +1,11 @@
+Invoice
+
+Company: Amazon
+
+Invoice Number: INV-2026-001
+
+Date: July 27 2026
+
+Total Amount: $450
+
+Customer: John Smith
